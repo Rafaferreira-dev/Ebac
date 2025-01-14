@@ -21,3 +21,19 @@ O usuário fornece dois números para a operação.
 O programa exibe o resultado da operação escolhida.
 
 O programa continua até que o usuário escolha sair (opção 5).
+
+Como executar o arquivo sh.
+
+Torne o script Bash executável: 
+Antes de executar o script, você precisa dar permissão de execução a ele. Use o comando chmod para isso. 
+chmod +x calculadora.sh
+
+Execute o script Bash: 
+Após torná-lo executável, você pode executar o script usando o comando ./
+./scalculadora.sh
+
+Explicação
+chmod +x calculadora.sh: Este comando altera as permissões do arquivo, tornando-o executável.
+
+./calculadora.sh: Este comando executa o script.
+
